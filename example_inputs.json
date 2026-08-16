@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Informative",
+    "text": "Emergency officials report mandatory evacuation downtown; shelter open at Central High School."
+  },
+  {
+    "name": "Non-informative related",
+    "text": "Prayers for everyone affected by the storm tonight."
+  },
+  {
+    "name": "Borderline",
+    "text": "Water is rising fast near the bridge and people are leaving the area."
+  },
+  {
+    "name": "Unrelated",
+    "text": "Just arrived in Colorado for a hiking trip and the mountains look amazing."
+  }
+]

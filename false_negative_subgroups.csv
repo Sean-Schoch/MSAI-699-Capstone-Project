@@ -1,0 +1,17 @@
+Model,Signal,Value,N,False negatives,False-negative rate
+Baseline 0.50,has_url,False,1091,575,0.5270394133822182
+Baseline 0.50,has_url,True,1620,538,0.33209876543209876
+Baseline 0.50,has_hashtag,False,1192,454,0.3808724832214765
+Baseline 0.50,has_hashtag,True,1519,659,0.4338380513495721
+Baseline 0.50,is_retweet,False,1228,534,0.43485342019543977
+Baseline 0.50,is_retweet,True,1483,579,0.3904248145650708
+Baseline 0.50,has_number,False,754,376,0.4986737400530504
+Baseline 0.50,has_number,True,1957,737,0.3765968318855391
+Hybrid 0.47,has_url,False,1091,546,0.5004582951420715
+Hybrid 0.47,has_url,True,1620,576,0.35555555555555557
+Hybrid 0.47,has_hashtag,False,1192,436,0.36577181208053694
+Hybrid 0.47,has_hashtag,True,1519,686,0.45161290322580644
+Hybrid 0.47,is_retweet,False,1228,525,0.42752442996742673
+Hybrid 0.47,is_retweet,True,1483,597,0.40256237356709373
+Hybrid 0.47,has_number,False,754,357,0.473474801061008
+Hybrid 0.47,has_number,True,1957,765,0.39090444557996934

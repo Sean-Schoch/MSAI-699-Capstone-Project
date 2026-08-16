@@ -1,0 +1,21 @@
+Model,Error type,Event,Original label,Probability,Text
+Baseline 0.50,False negative,2012 Costa Rica earthquake,Related and informative,0.10469194906257975,Can't believe a 7.6 earthquake hit costa rica :( so happy my family is okay but praying for those who were not as fortunate
+Baseline 0.50,False negative,2013 Alberta floods,Related and informative,0.11106243023173534,&lt;3 goes out to the folks in #Calgary. #abflood looks to be a bad one this time around. Hope the evacuees get out safe. #Canadianlove
+Baseline 0.50,False negative,2013 Alberta floods,Related and informative,0.12595770894045222,"Even if you THINK you know what it was like in  #abflood #highriver you need to read this, it was and is much... http://t.co/7UoItGBf0j"
+Baseline 0.50,False negative,2012 Costa Rica earthquake,Related and informative,0.1313391144114034,RT @CNNEEfans: ACTUALIZACIÓN: Presidente de #CostaRica Chinchilla dice que hay reportes de daños pero no muertes y de heridos tras el te ...
+Baseline 0.50,False negative,2012 Costa Rica earthquake,Related and informative,0.1357969995738696,"Marino Protti confirma que sismo de la semana pasada fue el esperado terremoto de Nicoya, pero solo liberó el 40% de la energía. #temblorcr"
+Baseline 0.50,False positive,2012 Colorado wildfires,Related - but not informative,0.895005419050295,RT @LarimerSheriff: #HighParkFire update http://t.co/hBy5shen
+Baseline 0.50,False positive,2012 Colorado wildfires,Not related,0.8804142734357155,RT @monikarun: Apocalypse #highparkfire   @ Taste of Fort Collins http://t.co/tjhlJqLU
+Baseline 0.50,False positive,2012 Costa Rica earthquake,Related - but not informative,0.8473573888422282,RT @GrupoCanZion: Únete a nuestra #oración por nuestros #hermanos Costarricenses. #OracionEnCadena #CostaRica #Sismo http://t.co/ThTVYRyh
+Baseline 0.50,False positive,2012 Costa Rica earthquake,Not related,0.8431959651099551,RT @ELDEBATE: Tornado afecta #Navolato y #CostaRica; 4 lesionados  http://t.co/eIpJKaC5 http://t.co/EMYNPXVc
+Baseline 0.50,False positive,2012 Costa Rica earthquake,Not applicable,0.8423660802967026,"【#USGS #Breaking】 M 1.1, 28km SSW of Fairbanks, Alaska http://t.co/hSyciQFM #PastHour #11 #earthquake #tsunami #prayfromjapan"
+Hybrid 0.47,False negative,2012 Costa Rica earthquake,Related and informative,0.022308554648345236,Can't believe a 7.6 earthquake hit costa rica :( so happy my family is okay but praying for those who were not as fortunate
+Hybrid 0.47,False negative,2013 Boston bombings,Related and informative,0.03087446653867752,"There may be another bomb in the JFK library, there are some sick people in this world #prayforboston"
+Hybrid 0.47,False negative,2013 Alberta floods,Related and informative,0.04055155928686281,&lt;3 goes out to the folks in #Calgary. #abflood looks to be a bad one this time around. Hope the evacuees get out safe. #Canadianlove
+Hybrid 0.47,False negative,2013 Alberta floods,Related and informative,0.04452239402703823,RT @pmharper: Chatting with first responders in Calgary. Thank you all again for all your hard work. http://t.co/LM7qOVUYln #abflood #yycfl…
+Hybrid 0.47,False negative,2013 Alberta floods,Related and informative,0.05098935815818183,RT @BridgingFoxes: Army trucks on the roll #reddeer #costco Prayers for those helping #abflood http://t.co/FsnCVrZ7s3
+Hybrid 0.47,False positive,2012 Colorado wildfires,Related - but not informative,0.9474216796337748,RT @LarimerSheriff: #HighParkFire update http://t.co/hBy5shen
+Hybrid 0.47,False positive,2012 Colorado wildfires,Not related,0.9378222883821856,RT @grouptour: High-elevation roller coaster opens at #Colorado’s @GlenwoodCaverns Adventure Park : http://t.co/Aiz3cCaZ #TT
+Hybrid 0.47,False positive,2012 Colorado wildfires,Not related,0.9236392093340623,RT @monikarun: Apocalypse #highparkfire   @ Taste of Fort Collins http://t.co/tjhlJqLU
+Hybrid 0.47,False positive,2012 Costa Rica earthquake,Not related,0.8995797359235288,RT @prophecydude1: Foul smell reported across Southern California :: Prophecy Dude http://t.co/4I2wQHCo via @webnode #earthquake #fb
+Hybrid 0.47,False positive,2012 Colorado wildfires,Not related,0.885192420741304,"New Job Vacancy: Customer Care Specialist - Corporate Field Resolutions at DISH Network in Colorado, US http://t.co/NVyOpUfU #Colorado #job"

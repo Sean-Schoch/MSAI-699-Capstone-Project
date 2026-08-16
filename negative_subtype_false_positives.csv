@@ -1,0 +1,7 @@
+Model,Negative subtype,N,False positives,False-positive rate
+Baseline 0.50,Not applicable,167,96,0.5748502994011976
+Baseline 0.50,Not related,697,365,0.5236728837876614
+Baseline 0.50,Related - but not informative,1574,318,0.2020330368487929
+Hybrid 0.47,Not applicable,167,52,0.31137724550898205
+Hybrid 0.47,Not related,697,333,0.47776183644189385
+Hybrid 0.47,Related - but not informative,1574,326,0.2071156289707751
